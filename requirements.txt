@@ -1,0 +1,8 @@
+cohere
+sounddevice
+wavio
+numpy
+scipy
+gtts
+SpeechRecognition
+
